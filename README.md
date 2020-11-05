@@ -8,3 +8,6 @@ SHELTER-ZONE 管理結構
 3. [Document Maintainer (DM)](https://github.com/SHELTER-ZONE/Oragnaization-Structure/wiki/Document-Maintainer-(DM))
 4. [Technical Service (TS)](https://github.com/SHELTER-ZONE/Oragnaization-Structure/wiki/Technical-Service-(TS))
 5. [Department Assistant (DA)](https://github.com/SHELTER-ZONE/SHELTER-ZONE-Structure/wiki/Department-Assistant-(DA))
+
+## 部門 Task/Issues 專用 Repo
+Coding部門：https://github.com/SHELTER-ZONE/SZ-Coding_Department
